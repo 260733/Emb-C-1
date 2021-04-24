@@ -1,6 +1,6 @@
 # Embedded C Programming Examples with Continuous Integration and Code Quality
 
-# LED Blinking 
+# Activity1: LED is glowing when both the conditions satisfies i.e person sits on the seat and turn ON the heater, then the LED should glow.
 
 ## In Action
 
