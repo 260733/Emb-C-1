@@ -4,9 +4,13 @@
 
 ## In Action
 
+
 |ON|OFF|
 |:--:|:--:|
-|![ON](simulation/ON.png)|![OFF](simulation/OFF.png)|
+|![ON]|![image](https://user-images.githubusercontent.com/80384951/115954818-a1f24100-a510-11eb-8a3b-816a85b542be.png)
+![OFF]|![image](https://user-images.githubusercontent.com/80384951/115954853-d0701c00-a510-11eb-996d-2f2071598930.png)
+
+## The colour of my LED is too light as you can see (slightly visible). I tried by varying the resistance still I am not able to change the colour. But its working.
 
 #### CI and Code Quality
 
