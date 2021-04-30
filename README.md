@@ -1,6 +1,6 @@
 # Embedded C Programming Examples with Continuous Integration and Code Quality
 
-# Activity1: LED is glowing when both the conditions satisfies i.e person sits on the seat and turn ON the heater, then the LED should glow.
+## Activity1: LED is glowing when both the conditions satisfies i.e person sits on the seat and turn ON the heater, then the LED should glow.
 
 ## In Action
 
@@ -20,3 +20,14 @@
 
 ## Wiki Documentation
 * System [SETUP](https://github.com/Bharathgopal/Emb-C/wiki)
+
+## ACTIVITY 2 
+![image](https://user-images.githubusercontent.com/80384951/116700855-e08e6c80-a9e4-11eb-9d75-7c094e41299e.png)
+
+
+## ACTIVITY 3
+![image](https://user-images.githubusercontent.com/80384951/116701113-2b0fe900-a9e5-11eb-84db-e8106fcb0ba2.png)
+
+
+## ACTIVITY 4 (Combined)
+![image](https://user-images.githubusercontent.com/80384951/116701650-c6a15980-a9e5-11eb-9883-9f02c471a80b.png)
