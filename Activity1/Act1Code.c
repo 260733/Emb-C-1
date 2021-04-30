@@ -1,3 +1,5 @@
+// ACTIVITY 1
+// Problem Statement: When the person is sitting on the seat and turns on the heater then the LED should glow.
 #include <avr/io.h>
 #include<util/delay.h>
 
